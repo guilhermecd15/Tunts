@@ -2,7 +2,7 @@
 
 ## Instruções para utilizar o projeto:
 
-* Clone o repositório
+* Clone o repositório:
 
       git clone git@github.com:guilhermecd15/Tunts.git
 
@@ -14,6 +14,6 @@
 
       npm install
 
-* Insira a situação de cana aluno
+* Insira a situação de cana aluno:
 
       npm start
