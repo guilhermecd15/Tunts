@@ -1,6 +1,6 @@
 # Desafio Tunts
 
-## Instruções para entregar utilizar o projeto:
+## Instruções para utilizar o projeto:
 
 * Clone o repositório
 
